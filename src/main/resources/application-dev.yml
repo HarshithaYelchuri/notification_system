@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: INFO
+    com.notification: DEBUG
+    org.springframework.data.mongodb: INFO
+    org.springframework.data.redis: INFO
+    org.springframework.kafka: INFO
